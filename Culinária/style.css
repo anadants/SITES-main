@@ -1,0 +1,16 @@
+.Nome{
+    display: flex;
+    background-color:#ECA457;
+    align-items:center ;
+    justify-content: space-between;
+    padding: 0 30px 0;
+    text-align: right;
+}
+.Nome img{
+    height: 80px;
+    width: 80px;
+}
+.inicio{
+    display: flex;
+
+}

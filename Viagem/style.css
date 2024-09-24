@@ -1,0 +1,34 @@
+.titulo{
+    background-image: url(img/aviao.png);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:flex-start;
+    padding: 50px 0 0 ;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 35px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Destino img{
+ width: 200px;
+}
+.Destino{
+    text-align: center;
+    margin: 20px;
+}
+.inicio{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    margin: 10px;
+}
+.Meio{
+    align-items: center;
+}
