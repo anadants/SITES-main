@@ -5,6 +5,10 @@
     justify-content: space-between;
     padding: 0 30px 0;
     text-align: right;
+
+}
+.imgfundo{
+   height: ;
 }
 .Nome img{
     height: 80px;
@@ -12,5 +16,64 @@
 }
 .inicio{
     display: flex;
-
+}
+a{
+font-size: 25px;
+color: white;
+padding: 0 10px 0;
+}
+.comidas{
+    font-size: 30px;
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align:center ;
+color: #ECA457;
+}
+.comidas p{
+    width: 700px;
+    font-size: 25px;
+    color: black;
+}
+.bolopao{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.Icones img{
+width: 90px;
+height: 90px;
+}
+.blog{
+    display: flex;
+    align-items: center;
+}
+.blog img{
+    width: 120px;
+    height: 120px;
+    padding: 0 20px 0;
+}
+.textoblog{
+display: flex;
+}
+.container{
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align:center ;
+font-size: 30px;
+color: #ECA457;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+footer{
+    background-color: #ECA457;
+    align-items: center;
+}
+footer img {
+    width: 120px;
+    align-items: center;
 }
