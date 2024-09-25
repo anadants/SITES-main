@@ -34,3 +34,7 @@
 .Meio{
     align-items: center;
 }
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
