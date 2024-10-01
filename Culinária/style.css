@@ -7,8 +7,8 @@
     text-align: right;
 
 }
-.imgfundo{
-   height: ;
+.imgfundo img{
+   width: 1495px;
 }
 .Nome img{
     height: 80px;
@@ -37,13 +37,14 @@ color: #ECA457;
 }
 .bolopao{
 display: flex;
-flex-direction: column;
 align-items: center;
 justify-content: center;
 }
 .Icones img{
 width: 90px;
 height: 90px;
+display: flex;
+flex-direction: row;
 }
 .blog{
     display: flex;
@@ -76,4 +77,12 @@ footer{
 footer img {
     width: 120px;
     align-items: center;
+}
+.blogchef{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 20px ;
+
 }

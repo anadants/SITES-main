@@ -1,0 +1,49 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+header{
+    background-color: #648769;
+    height: 460px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    font-size: 25px
+}
+.container img{
+    width: 150px;
+}
+.Nome img{
+    width: 500px;
+
+}
+.Nome{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    width: 1200px;
+    font-size: 50px;
+}
+.final{
+text-align: center;
+display: flex;
+justify-content: center;
+padding: 90px 0 0;
+background-color: #648769;
+height: 200px;
+color: white;
+font-size: 30px;
+}
+span{
+    color: #2A5B31;
+}
+.inicio h3{
+    font-size: 40px;
+    width: 600px;
+    padding: 0 20px;
+}
