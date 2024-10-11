@@ -35,13 +35,24 @@ color: #ECA457;
     font-size: 25px;
     color: black;
 }
-.bolopao{
+.bolopao, .frangopeixe{
 display: flex;
 align-items: center;
 justify-content: center;
+
 }
+.bolopao p{ 
+    color: darkgray;
+    font-size: 17px;
+    width: 150px;
+}
+.frangopeixe p{
+    color: darkgrey;
+    font-size: 17px;
+    width: 150px;
+}
+
 .Icones img{
-width: 90px;
 height: 90px;
 display: flex;
 flex-direction: row;
@@ -73,6 +84,9 @@ color: #ECA457;
 footer{
     background-color: #ECA457;
     align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 150px;
 }
 footer img {
     width: 120px;
@@ -84,5 +98,15 @@ footer img {
     align-items: center;
     justify-content: center;
     margin: 0 0 20px ;
-
+    font-size: 20px;
+}
+.blogchef h1{
+    color:#ECA457 ;
+}
+.Icones{
+    display: flex;
+    margin: 15px;
+}
+.textoblog {
+color: darkgray;
 }

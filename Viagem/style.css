@@ -15,13 +15,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .Destino img{
  width: 200px;
+
 }
 .Destino{
     text-align: center;
     margin: 20px;
+    border: 3px solid;
+    border-radius: 10px;
 }
 .inicio{
     display: flex;
@@ -33,6 +37,7 @@
 }
 .Meio{
     align-items: center;
+
 }
 *{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -44,3 +49,19 @@
     font-size: 35px;
     ;
 }
+.tour{
+    color: white;
+}
+footer{
+    background-color: #1D0F6E;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: #1D0F6E;
+}
+
